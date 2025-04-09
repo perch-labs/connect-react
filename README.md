@@ -109,7 +109,7 @@ Data is expected in the following format:
 | Data field  | Description                                                                             | Required |
 | ----------- | --------------------------------------------------------------------------------------- | -------- |
 | `zipCode`   | user's zip code                                                                         | no       |
-| `utilityId` | [ID of the user's utility](https://arc.arcadia.com/coverage) | no       |
+| `utilityId` | [ID of the user's utility](https://arcadia-legacy.arcadia.com/coverage) | no       |
 
 ### `config.ConnectToken`
 
