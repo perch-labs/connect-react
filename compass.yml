@@ -1,0 +1,15 @@
+configVersion: 1
+id: 'ari:cloud:compass:a19bc1d8-5c2a-4823-aa62-a9f9e25bd6c2:component/278fe88c-0058-4b51-862a-171fe02dccc5/36e0d8b8-922a-44fc-a430-e3414381f89c'
+name: perch-labs/connect-react
+description: 'React tool for integrating with Arcadia''s utility credential sync service'
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 2
+  lifecycle: Active
+labels:
+  - automatic-repo-discovery
+  - synced-with-jsm
+links:
+  - type: REPOSITORY
+    url: 'https://github.com/perch-labs/connect-react'
