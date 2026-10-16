@@ -35,9 +35,9 @@ export const useConnect = () => {
   });
 
   const pollForFactory = useCallback(() => {
-    const { _ArcadiaConnect } = window;
-    if (_ArcadiaConnect) {
-      setFactory(_ArcadiaConnect);
+    const { _ArcConnect } = window;
+    if (_ArcConnect) {
+      setFactory(_ArcConnect);
       return;
     }
 
