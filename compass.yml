@@ -3,7 +3,7 @@ id: 'ari:cloud:compass:a19bc1d8-5c2a-4823-aa62-a9f9e25bd6c2:component/278fe88c-0
 name: perch-labs/connect-react
 description: 'React tool for integrating with Arcadia''s utility credential sync service'
 typeId: SERVICE
-ownerId: null
+ownerId: 'ari:cloud:identity::team/cb261e5a-652b-4bd0-9681-1e876edf9546'
 fields:
   tier: 2
   lifecycle: Active
